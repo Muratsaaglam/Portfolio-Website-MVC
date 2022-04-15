@@ -28,6 +28,7 @@ Kod Bölümü :
 ![image](https://user-images.githubusercontent.com/98838876/163582130-af675299-9625-4877-b86c-31b3ae08f5d1.png)
 
 Microsoft Sql Data  Modeli Oluşturuldu
+
 ![image](https://user-images.githubusercontent.com/98838876/163582280-7891543c-0ee2-449e-b0ad-6967f0993363.png)
 
 Sql DataBase Örneği ve Tabloları Aşağıdaki Gibidir.
