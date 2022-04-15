@@ -1,4 +1,4 @@
-#MvcCV
+:high_brightness:	#MvcCV :high_brightness:	
 
 C# Mimarisi ile geliştirdiğim Portföy Web Sitesi ile Kendinize Ait Özgeçmiş Oluşturabilirsiniz.
 
