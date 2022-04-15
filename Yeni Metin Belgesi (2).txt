@@ -1,0 +1,6 @@
+<add connectionString="Data Source=.\MSSQLSERVER2019;Initial Catalog=dataproje;User ID=dbprojedemolar;Password=sifre" name="Context" providerName="System.Data.SqlClient" />
+
+ <add name="DbCvEntities" connectionString="metadata=res://*/Models.Entity.Model1.csdl|res://*/Models.Entity.Model1.ssdl|res://*/Models.Entity.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-07T8MF2\MSSQLSERVER01;initial catalog=DbCv;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+
+Çalışır
+ <add name="DbCvEntities" connectionString="metadata=res://*/Models.Entity.Model1.csdl|res://*/Models.Entity.Model1.ssdl|res://*/Models.Entity.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.\MSSQLSERVER2019;initial catalog=DbCv;User ID=murat;Password=12345678aA*;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient"/>
