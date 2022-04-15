@@ -1,6 +1,7 @@
 :high_brightness:	#MvcCV :high_brightness:	
 
-C# Mimarisi ile geliştirdiğim Portföy Web Sitesi ile Kendinize Ait Özgeçmiş Oluşturabilirsiniz.
+C# Alt Yapısı ile Birlikte Kendinize Ait Yönetici Panelli Portföy Web Sitesi Projesi.
+
 
 :arrow_right:	Web sitenin Anasayfası 7 Bölümden Oluşmaktadır. Boostrap destekli One Page Sayfa Tasarımı Kullanıldı.
 ![image](https://user-images.githubusercontent.com/98838876/163580604-fb89dea7-3ea7-4bc3-adb6-02f2d6a0258f.png)
