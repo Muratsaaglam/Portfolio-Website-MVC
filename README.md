@@ -7,7 +7,7 @@ C# Alt Yapısı ile Birlikte Kendinize Ait Yönetici Panelli Portföy Web Sitesi
 ![image](https://user-images.githubusercontent.com/98838876/163580604-fb89dea7-3ea7-4bc3-adb6-02f2d6a0258f.png)
 
 
-:arrow_right:	 Sayfanın Genelini Tanıtan Video : 
+:arrow_right:	 Anasayfa - Tasarım Sayfasını Tanıtan Video : 
 
 
 
@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/98838876/163593264-037ba209-f25f-4821-
 
 :arrow_right:	Admin Sayfası İle Web Site Arayüzünde Yer Alan Belirli Alanları Güncelleyebilirsiniz.
 
-:arrow_right:	Admin Sayfasının Genelini Tanıtan Video : 
+:arrow_right:	Login Page - Admin Page Ekranlarını Tanıtan Video : 
 
 
 
