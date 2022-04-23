@@ -2,6 +2,8 @@
 
 C# Alt Yapısı ile Birlikte Kendinize Ait Yönetici Panelli Portföy Web Sitesi Projesi.
 
+:arrow_right: Mvc5, Linq Sorgulamaları ve SQL Veri Tabanı Kullanıldı.
+
 
 :arrow_right:	Web sitenin Anasayfası 7 Bölümden Oluşmaktadır. Boostrap destekli One Page Sayfa Tasarımı Kullanıldı.
 ![image](https://user-images.githubusercontent.com/98838876/163580604-fb89dea7-3ea7-4bc3-adb6-02f2d6a0258f.png)
